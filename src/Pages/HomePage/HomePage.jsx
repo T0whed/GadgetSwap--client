@@ -3,7 +3,7 @@ import FeaturedProductsComponent from "../../Components/FeaturedProductsComponen
 import HowItWorksComponent from "../../Components/HowItWorksComponent/HowItWorksComponent.jsx";
 import LoyaltyAndRewardsComponent from "../../Components/LoyaltyAndRewardsComponent/LoyaltyAndRewardsComponent.jsx";
 import WhatOurCustomersSayComponent from "../../Components/WhatOurCustomersSayComponent/WhatOurCustomersSayComponent.jsx";
-import EidSpecialFunComponent from "../../Components/EidSpecialFunComponent/EidSpecialFunComponent.jsx";
+// import EidSpecialFunComponent from "../../Components/EidSpecialFunComponent/EidSpecialFunComponent.jsx";
 
 const HomePage = () => {
   return (

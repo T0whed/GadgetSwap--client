@@ -1,6 +1,6 @@
 import { configureStore } from "@reduxjs/toolkit";
 import darkLightThemeReducer from "../Features/darkLightTheme/darkLightThemeSlice";
-import featuredGadgetsForHomePageReducer from "../Features/featuredGadgetsForHomePage/featuredGadgetsForHomePageSlice";
+import featuredGadgetsForHomePageReducer from "../Features/featuredGadgetsForHomePage/featuredGadgetsForHomePageSlice.js";
 import allGadgetsForGadgetsPageReducer from "../Features/allGadgetsForGadgetsPage/allGadgetsForGadgetsPageSlice.js";
 import getGadgetDetailsByIdReducer from "../Features/getGadgetDetailsById/getGadgetDetailsByIdSlice.js";
 import userProfileDetailsReducer from "../Features/userProfileDetails/userProfileDetailsSlice.js";
